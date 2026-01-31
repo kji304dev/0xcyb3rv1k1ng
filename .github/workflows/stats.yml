@@ -1,0 +1,30 @@
+name: Generate README Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download GitHub Readme Stats card
+        run: |
+          mkdir -p generated
+          curl -L "https://github-readme-stats.vercel.app/api?username=0xcyb3rv1k1ng&show_icons=true&theme=vision-friendly-dark&hide_border=true" \
+            -o generated/github-stats.svg
+
+      - name: Commit generated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/github-stats.svg
+          git commit -m "Update generated stats" || exit 0
+          git push
