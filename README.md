@@ -44,12 +44,17 @@
 
 ### GitHub stats (optional)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xcyb3rv1k1ng&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=0xcyb3rv1k1ng&show_icons=true&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcyb3rv1k1ng&theme=vision-friendly-dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=0xcyb3rv1k1ng&theme=vision-friendly-dark&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
-<!-- If these ever annoy you by breaking, delete this section. Your profile will look cleaner anyway. -->
 
