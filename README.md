@@ -44,8 +44,12 @@
 
 ### GitHub stats
 <p align="center">
-  <img src="generated/github-stats.svg" alt="GitHub stats" />
+  <img
+    src="https://raw.githubusercontent.com/0xcyb3rv1k1ng/0xcyb3rv1k1ng/main/generated/github-stats.svg"
+    alt="GitHub stats"
+  />
 </p>
+
 
 
 
