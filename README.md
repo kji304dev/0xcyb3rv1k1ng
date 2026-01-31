@@ -45,10 +45,11 @@
 ### GitHub stats
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/0xcyb3rv1k1ng/0xcyb3rv1k1ng/main/generated/github-stats.svg"
-    alt="GitHub stats"
+    src="https://raw.githubusercontent.com/0xcyb3rv1k1ng/0xcyb3rv1k1ng/main/generated/metrics.svg"
+    alt="GitHub metrics"
   />
 </p>
+
 
 
 
