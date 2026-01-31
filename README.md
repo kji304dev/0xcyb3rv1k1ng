@@ -34,11 +34,13 @@
 ---
 
 ### Featured work
-> Pin repos that support your security headline (writeups, PoCs, tools, labs).
+- 🛡️ **phishlens** — phishing URL triage with explainable scoring  
+- 🚨 **logsentinel** — lightweight log monitoring + alerting for suspicious activity  
+- 🔐 **ethereum-wallet-in-js** — minimal wallet + signing flows to understand key security  
+- ₿ **simple-bitcoin-wallet** — C# wallet fundamentals: UTXOs, signing, design patterns  
+- 📊 **jfg** — address balance tracking + chain data visualization (Etherscan)  
+- 🧩 **Multiple-Node-Blockchain-Network** — multi-node network lab for node and network behavior
 
-- 🧪 **Security Labs / PoCs** — vulnerable contracts, exploit demos, notes
-- 🛠️ **Tools** — scripts/utilities for analysis or automation
-- 📝 **Writeups** — CTFs, postmortems, learning notes
 
 ---
 
