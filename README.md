@@ -44,11 +44,9 @@
 
 ### GitHub stats
 <p align="center">
-  <img
-    src="https://YOUR-VERCEL-APP.vercel.app/api?username=0xcyb3rv1k1ng&show_icons=true&theme=vision-friendly-dark&hide_border=true"
-    alt="GitHub stats"
-  />
+  <img src="generated/github-stats.svg" alt="GitHub stats" />
 </p>
+
 
 
 
