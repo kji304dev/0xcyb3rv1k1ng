@@ -1,7 +1,7 @@
 <!-- Profile README: 0xcyb3rv1k1ng -->
 
 <p align="center">
-  <img src="assets/header.png" alt="0xcyb3rv1k1ng header" />
+  <img src="assets/gh-header.png" alt="0xcyb3rv1k1ng header" />
 </p>
 
 <h2 align="center">Web3 Security • Smart Contract Hacking • Blockchain Engineer</h2>
