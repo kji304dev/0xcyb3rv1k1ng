@@ -16,16 +16,15 @@
 - ⚡ Fun fact: Top 10 score worldwide on *Galaga*
 
 ---
+## Projects
 
 | Project | Description |
 |---|---|
-| **iBuddy** | Support analytics workflow that extracts, organizes, and analyzes support conversations to identify trends, recurring issues, and operational insights. |
-| **StarScoop** | Review triage tool that cleans, deduplicates, categorizes, and summarizes app review feedback by platform, language, severity, and issue pattern. |
-| **Support Conversation Exporter** | Flask/Python tool that queries the Intercom API and exports support conversations to CSV or spreadsheet format by date range for review and analysis. |
-| **AI Support Training Generator** | Workflow that uses support conversation data and AI assistance to generate draft training materials, issue summaries, and documentation prompts for support teams. |
-| **State Log Explorer** | Utility for parsing raw JSON application state logs into a structured, readable format for debugging and issue investigation. |
-| **LogSentinel** | Lightweight log monitoring concept for identifying suspicious or unusual activity patterns and supporting faster investigation. |
-| **PhishLens** | URL triage concept that evaluates suspicious links and produces explainable risk signals for security-focused support workflows. |
+| [Boots Console Logs Explorer](https://github.com/0xcyb3rv1k1ng/boots-console-logs-explorer) | Documentation-only summary of an internal console log analysis workflow for parsing, organizing, and triaging browser/app logs during support investigations. |
+| [iBuddy](https://github.com/0xcyb3rv1k1ng/ibuddy-support-analytics) | Support analytics workflow that extracts, organizes, and analyzes support conversations to identify trends, recurring issues, and operational insights. |
+| [StarScoop](https://github.com/0xcyb3rv1k1ng/starscoop-review-triage) | Review triage tool that cleans, deduplicates, categorizes, and summarizes app review feedback by platform, language, severity, and issue pattern. |
+| [LogSentinel](https://github.com/0xcyb3rv1k1ng/logsentinel) | Lightweight log monitoring concept for identifying suspicious or unusual activity patterns and supporting faster investigation. |
+| [PhishLens](https://github.com/0xcyb3rv1k1ng/phishlens) | URL triage concept that evaluates suspicious links and produces explainable risk signals for security-focused support workflows. |
 
 
 ---
