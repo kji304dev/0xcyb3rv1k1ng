@@ -17,6 +17,32 @@
 
 ---
 
+| Project | Description |
+|---|---|
+| **iBuddy** | Support analytics workflow that extracts, organizes, and analyzes support conversations to identify trends, recurring issues, and operational insights. |
+| **StarScoop** | Review triage tool that cleans, deduplicates, categorizes, and summarizes app review feedback by platform, language, severity, and issue pattern. |
+| **Support Conversation Exporter** | Flask/Python tool that queries the Intercom API and exports support conversations to CSV or spreadsheet format by date range for review and analysis. |
+| **AI Support Training Generator** | Workflow that uses support conversation data and AI assistance to generate draft training materials, issue summaries, and documentation prompts for support teams. |
+| **State Log Explorer** | Utility for parsing raw JSON application state logs into a structured, readable format for debugging and issue investigation. |
+| **LogSentinel** | Lightweight log monitoring concept for identifying suspicious or unusual activity patterns and supporting faster investigation. |
+| **PhishLens** | URL triage concept that evaluates suspicious links and produces explainable risk signals for security-focused support workflows. |
+
+
+---
+
+## 💻 Tech
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![AI Workflows](https://img.shields.io/badge/AI%20Workflows-6E40C9)
+
+---
+
 ## Focus areas
 
 - 🚀 Support automation and internal tooling
@@ -28,21 +54,9 @@
 
 ---
 
-## Featured work
+## Current direction
 
-- **iBuddy** — support analytics workflow for extracting, organizing, and analyzing support conversations
-- **StarScoop** — review triage tool for cleaning, deduplicating, categorizing, and summarizing app review feedback
-- **Support runbooks** — documentation workflows for repeatable troubleshooting and escalation handling
-- **AI-assisted workflows** — reusable processes for summarizing issues, improving documentation, and identifying recurring patterns
-- **Technical support operations** — high-volume case management, escalation research, and customer issue resolution
-
----
-
-## Tech & tools
-
-`Python` `JavaScript` `SQL` `HTML` `CSS` `Excel` `Google Sheets`  
-`Intercom` `LivePerson` `Zendesk` `Jira` `GitHub` `APIs`  
-`ChatGPT` `Claude` `Gemini` `Perplexity` `Cursor`
+I am focused on roles where I can combine technical troubleshooting, customer support, documentation, automation, and data analysis to improve how teams resolve complex issues. My strongest areas are support engineering, customer success engineering, technical operations, reporting workflows, and AI-assisted process improvement.
 
 ---
 
@@ -55,10 +69,11 @@
 - Certified Blockchain Engineer
 
 ---
+## 📬 Get in touch
 
-## Current direction
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kji304dev/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:ingentr75@gmail.com)
 
-I am focused on roles where I can combine technical troubleshooting, customer support, documentation, automation, and data analysis to improve how teams resolve complex issues. My strongest areas are support engineering, customer success engineering, technical operations, reporting workflows, and AI-assisted process improvement.
 ---
 
 ### GitHub stats
